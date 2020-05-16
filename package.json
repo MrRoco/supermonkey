@@ -1,0 +1,26 @@
+{
+  "name": "supermonkey",
+  "version": "1.0.0",
+  "description": "Bot for BME clan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrRoco/supermonkey.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrRoco/supermonkey/issues"
+  },
+  "homepage": "https://github.com/MrRoco/supermonkey#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
