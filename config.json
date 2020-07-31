@@ -1,6 +1,5 @@
 {
   "YOUTUBE_API_KEY": "AIzaSyBpJQ4u_APunsPCrHneDK5G9x4cr0G8n2A",
-  "MAX_PLAYLIST_SIZE": 10,
-  "PREFIX": "/",
+  "MAX_PLAYLIST_SIZE": 100,
   "PRUNING": true
 }
