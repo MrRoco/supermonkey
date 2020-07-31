@@ -10,7 +10,7 @@ module.exports = {
     const description = serverQueue.songs.map((song, index) => `${index + 1}. ${song.title}`);
 
     let queueEmbed = new MessageEmbed()
-    .setTitle("EvoBot Music Queue")
+    .setTitle("SuperMonkey Music Queue")
     .setDescription(serverQueue.songs.map((song, index) => `${index + 1}. ${song.title}`))
     .setColor("#F8AA2A");
 
