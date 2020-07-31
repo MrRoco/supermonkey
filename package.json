@@ -17,8 +17,12 @@
   },
   "homepage": "https://github.com/MrRoco/supermonkey#readme",
   "dependencies": {
+    "@discordjs/opus": "^0.3.2",
     "discord.js": "^12.2.0",
-    "dotenv": "^8.2.0"
+    "dotenv": "^8.2.0",
+    "simple-youtube-api": "^5.1.1",
+    "ytdl-core": "^3.1.0",
+    "ytdl-core-discord": "amishshah/ytdl-core-discord"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
