@@ -1,2 +1,2 @@
 # supermonkey
-Bot for BME Clan
+Bot for Globbits Clan
